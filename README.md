@@ -13,7 +13,7 @@ This project provides an exploratory data analysis (EDA) of the Superstore datas
 ## Results
 Key findings and visualizations are included in the notebook (`main.ipynb`).
 
-![alt text](image-1.png)
+![alt text](/images/monthly_sales_profit_trends.png)
 
 ## Dataset
 
