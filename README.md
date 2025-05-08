@@ -15,8 +15,6 @@ Key findings and visualizations are included in the notebook (`main.ipynb`).
 
 ![Monthly Sales and Profit Trends Chart](/images/monthly_sales_profit_trends.png)
 
-![Total Sales and Profit by Sub-Category Chart](/images/Total Sales & Profit by Sub-Category.png)
-
 ## Dataset
 
 This analysis utilizes the [Superstore Sales Dataset][dataset-url] . The dataset is licensed under the [GPL 2][gpl2-url].
