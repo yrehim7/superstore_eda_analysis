@@ -11,7 +11,7 @@ This project provides an exploratory data analysis (EDA) of the Superstore datas
 - Identification of patterns in customer purchasing behavior
 
 ## Results
-Key findings and visualizations are included in the notebook (`main.ipynb`).
+Key findings and visualizations are included in the notebook
 
 ![Monthly Sales and Profit Trends Chart](/images/monthly_sales_profit_trends.png)
 
