@@ -1,14 +1,14 @@
 # 🛒 EDA Superstore Analysis
 
 ## Overview
-This project provides an exploratory data analysis (EDA) of the Superstore dataset. The goal is to uncover insights about sales, profit, and customer behavior through visualizations and statistical analysis.
+This project provides an exploratory data analysis (EDA) of the Superstore dataset. The goal is to uncover insights about sales, profit, and customer behavior through visualizations and statistical analysis
 
 
 ## Features
 - Data cleaning and preprocessing
 - Exploratory data analysis with visualizations
 - Key insights into sales and profitability trends
-- Identification of patterns in customer purchasing behavior
+- Identification of patterns in customer purchasing behavior and much more
 
 ## Results
 Key findings and visualizations are included in the notebook
