@@ -13,7 +13,8 @@ This project provides an exploratory data analysis (EDA) of the Superstore datas
 ## Results
 Key findings and visualizations are included in the notebook
 
-![Monthly Sales and Profit Trends Chart](/images/monthly_sales_profit_trends.png)
+![Monthly Sales and Profit Trends Chart](/imagesCustomer Segmentation by Recency & Monetary Value.png)
+
 
 ## Dataset
 
